@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "moscowmule23",
+    "database": "sector",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "moscowmule23",
+    "database": "sector",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "moscowmule23",
+    "database": "sector",
+    "host": "host.docker.internal",
+    "dialect": "mysql"
+  }
+}
